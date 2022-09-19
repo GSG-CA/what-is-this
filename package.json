@@ -1,0 +1,22 @@
+{
+  "name": "what-is-this",
+  "version": "1.0.0",
+  "description": "`this` keyword has been a mystery for me for a long time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GSG-CA/what-is-this.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GSG-CA/what-is-this/issues"
+  },
+  "homepage": "https://github.com/GSG-CA/what-is-this#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
